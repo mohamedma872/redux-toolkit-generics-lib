@@ -133,7 +133,7 @@ To set up the library locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/mohamedma872/redux-toolkit-generics.git
    ```
 2. Install dependencies
    ```bash
@@ -147,16 +147,3 @@ To set up the library locally:
 ## License
 
 This library is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-### Additional Tips for Your README
-
-- **Badges**: Add badges at the top for things like NPM version, build status, license, etc. Example badges can be found on [shields.io](https://shields.io/).
-- **GitHub Link**: Update the GitHub link to point to your repository.
-- **Examples**: Provide as many examples as possible to help developers quickly understand how to use your library. Real-world use cases or demo projects are helpful.
-- **Versioning and Changes**: Include a "Changelog" section if you anticipate frequent updates. This helps users understand what has changed between versions.
-- **Code Snippets**: Use TypeScript syntax highlighting (```typescript) for better readability.
-- **Screenshots**: You can add screenshots or even GIFs if your library involves a UI, to give users a clear visual idea of the features.
-
-With this README, users will understand what your library does, how to install it, and how to use it efficiently. If you need further customizations or want to add more content, feel free to ask!
