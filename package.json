@@ -1,6 +1,6 @@
 {
   "name": "redux-toolkit-generics",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -16,6 +16,6 @@
     "typescript": "^5.6.3"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^2.3.0"
+    "@reduxjs/toolkit": "1.9.2"
   }
 }
