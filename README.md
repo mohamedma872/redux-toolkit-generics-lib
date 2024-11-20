@@ -1,10 +1,3 @@
-Sure thing! A well-crafted README file is crucial for an open-source library, especially on NPM, as it helps other developers understand the purpose, setup, and usage of your library. Here’s a guide for creating a detailed and effective README file for your generic Redux Toolkit library.
-
-### README File Template
-
-Here is a comprehensive README file for your NPM package:
-
----
 
 # Redux Toolkit Generic Slice Library
 
